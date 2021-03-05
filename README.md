@@ -1,5 +1,5 @@
 ### Hi there 👋
--🔭 I’m currently working on Python Packages.
+-🔭 I’m currently working on Python Packages and a Wordpress plugin.
 
 <!--
 **Space-Explorer25/Space-Explorer25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
