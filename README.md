@@ -1,5 +1,5 @@
 ### Hi there 👋
--🔭 I’m currently working on Python packages, a Wordpress plugin, Python games, and 3d designing.
+-🔭 I’m currently working on Python packages, a Wordpress plugin, and Python games.
 
 <!--
 **Space-Explorer25/Space-Explorer25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
